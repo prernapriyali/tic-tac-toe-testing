@@ -1,5 +1,4 @@
-#!/usr/bin/env ruby
-# frozen_string_literal: true
+rubocop!/usr/bin/env ruby
 
 require_relative '../lib/player'
 require_relative '../lib/board'

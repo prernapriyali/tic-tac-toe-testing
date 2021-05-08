@@ -1,6 +1,8 @@
+# frozen_string_literal: true
+
 class Board
-  attr_reader :cell, :available_moves, :positions
-  attr_writer :available_moves
+  attr_accessor :available_moves
+  attr_reader :cell, :positions
 
   def initialize
     @cell = [[' ', ' ', ' '], [' ', ' ', ' '], [' ', ' ', ' ']]
