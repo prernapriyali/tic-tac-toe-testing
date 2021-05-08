@@ -6,7 +6,7 @@
 
 Tic-tac-toe is a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
 
-![screenshot](../readme_game_instructions/screenshot.png) 
+
 
 ## How it works
 
@@ -80,10 +80,6 @@ This game is tested with Rspec which is a computer domain-specific language (DSL
   ```
   rspec
   ```
-
-## Rspec output
-
-![screenshot](../Testing/testing_output.png) 
 
 ## Built With
 
